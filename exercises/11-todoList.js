@@ -12,3 +12,5 @@ if (!gettodolist1Input) {
 }
 todolist1Input.value = ''; //reset the input box
 }
+
+//CODE OF TO DO LIST 2
